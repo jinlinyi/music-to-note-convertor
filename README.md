@@ -18,7 +18,7 @@ The image is the GUI of the software. The top right part is an visualize of the 
 
 A demo video is available on YouTube.
 
-[![Music to Note Convertor DEMO](https://img.youtube.com/vi/ZouT3KRDMXM/1.jpg)](https://www.youtube.com/watch?v=ZouT3KRDMXM)
+[![Music to Note Convertor DEMO](https://img.youtube.com/vi/ZouT3KRDMXM/0.jpg)](https://www.youtube.com/watch?v=ZouT3KRDMXM)
 
 ## Run
 ```
