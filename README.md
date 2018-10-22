@@ -1,6 +1,6 @@
 # music-to-note-convertor
 A matlab software that convert music to music notes. 
-The software can convert music into music sheet and detect any mistakes in the music compared to the original music sheet in the database. This software is helpful to music composers and music learner.
+The software can convert music into music sheet and detect any mistakes in the music compared to the original music sheet. This software is helpful to music composers and music learner.
 
  - Author: Team FORWARD
  - Instructor: Prof. Yanfeng Shen
