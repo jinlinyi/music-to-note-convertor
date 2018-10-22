@@ -16,7 +16,7 @@ The software can convert music into music sheet and detect any mistakes in the m
 The image is the GUI of the software. The top right part is an visualize of the data being processed. The left part is the output music sheet. 
 ![](demo.png)
 
-A demo [video](https://www.youtube.com/watch?v=ZouT3KRDMXM) is available on YouTube.
+A demo video is available on YouTube.
 
 [![Music to Note Convertor DEMO](https://img.youtube.com/vi/ZouT3KRDMXM/1.jpg)](https://www.youtube.com/watch?v=ZouT3KRDMXM)
 
