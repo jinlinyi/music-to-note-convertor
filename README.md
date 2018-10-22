@@ -13,7 +13,7 @@ The software can convert music into music sheet and detect any mistakes in the m
  - Shijie Zhou
  - Shiyue Gao
 ## Demo
-The image is the GUI of the software. The top right part is an visualize of the data being processed. The left part is the output music sheet. 
+The image is the GUI of the software. The top right part is a visualize of the data being processed. The left part is the output music sheet. 
 ![](demo.png)
 
 A demo video is available on YouTube.
