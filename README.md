@@ -10,7 +10,7 @@ The software can convert music into music sheet and detect mistakes in the music
  - Linyi Jin ([@jinlinyi](https://github.com/jinlinyi))
  - Xiuneng LU ([@lUxIUNENG](https://github.com/LuXiuneng))
  - Cunzhi Gao ([@cunzhig](https://github.com/cunzhig))
- - Shijie Zhou
+ - Shijie Zhou ([@JosiahZhou](https://github.com/JosiahZhou))
  - Shiyue Gao
 ## Demo
 The image is the GUI of the software. The top right part is a visualize of the data being processed. The left part is the output music sheet. 
